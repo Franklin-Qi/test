@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test for package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franklin-Qi/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Franklin-Qi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franklin-Qi/test/issues"
+  },
+  "homepage": "https://github.com/Franklin-Qi/test#readme"
+}
